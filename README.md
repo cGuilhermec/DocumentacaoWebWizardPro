@@ -50,12 +50,6 @@ cd devSolutions
 code .
 ```
 
-Se caso haja mais coisas para instalar
-
-```sh
-Comando virá aqui
-```
-
 ##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints)
 
 ## :page_facing_up: Wireframe
@@ -67,14 +61,14 @@ Comando virá aqui
 Print da foto da equipe e suas funções.
 
 | Função        | Nome                              | Linkdim & Github                                                                                                                                                                                                                                                                                                                |
-| ------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Project Owner | Ligia Ribeiro                     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ligribeiro) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liribeiro/)                                    |
 | Scrum Master  | Guilherme Carvalho                | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cGuilhermec) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-1b8b08156/)                |
 | Dev Team      | André de Holanda Ventura          | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreHVentura) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrehventura/)                             |
 | Dev Team      | Jonatas Filipe Carvalho Ferreira  | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipejonatas) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-filipe-aa4534165/)                  |
 | Dev Team      | Henrique Pintor de Melo           | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenriquePmelo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pintor-92448a28b/)                 |
 | Dev Team      | Vinicius Barbosa Fernandes        | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viniciusfernandes2) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fernandes-6088a323b)          |
-| Dev Team      | Jackson Rodrigo Costa Machado     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacksonrcmachado) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/) |     |
+| Dev Team      | Jackson Rodrigo Costa Machado     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacksonrcmachado) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/) |
 | Dev Team      | Caio Cesar Silva Azevedo dos Reis | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaiooAzevedoo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-azevedo-dev/)                          |
 
 ##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints)

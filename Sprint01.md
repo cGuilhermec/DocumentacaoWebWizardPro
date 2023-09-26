@@ -2,7 +2,9 @@
 <h1>Sprint 01  <br>
 <p>04/09/2023 à 28/09/23
 </div>
-<center> <a  href="# :dart: Objetivo da Sprint">Objetivo da Sprint</a> | <a  href="# :triangular_flag_on_post: Sprint Backlog">Backlog da Sprint</a> | <a  href="# :page_facing_up: Wireframe">Documentação</a> | <a  href="#pushpin-apontamentos">Apontamentos</a>
+
+<center> <a  href="#dart-objetivo-da-sprint">Objetivo da Sprint</a> | <a  href="#triangular_flag_on_post-sprint-backlog">Backlog da Sprint</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#clipboard-kanbam-trello">Kanbam</a> | <a  href="#pushpin-apontamentos">Apontamentos</a>
+</center>
 
 # :dart: Objetivo da Sprint
 
@@ -16,7 +18,7 @@
 
 [![Brundown Sprint01](./Burndown_Sprint01.PNG)](./Burndown_Sprint01.PNG)
 
-##### [:rocket: Voltar ao topo ](#dart-objetico-da-sprint)
+##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
 
 # :page_facing_up: Wireframe
 
@@ -28,10 +30,10 @@ A equipe toda se organizou para estudar e estruturar a disposição do wireframe
 
 [![Kanbam Trello](./Trello.PNG)](./Trello.PNG)
 
-##### [:rocket: Voltar ao topo ](#dart-objetico-da-sprint)
+##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
 
 # :pushpin: Apontamentos
 
 No início da sprint, deparamo-nos com um desafio no que concerne à organização das tarefas prioritárias. Cada membro da equipe tinha sua própria perspectiva sobre a sequência de ações a serem tomadas, resultando em pequenos desentendimentos durante as reuniões diárias. Contudo, após uma construtiva conversa com a Product Owner (PO), que possui um vasto conhecimento em relação ao planejamento e à condução de projetos, incluindo a elaboração de wireframes e os passos subsequentes, conseguimos estabelecer uma estrutura mais sólida e seguir adiante com o projeto de forma mais harmoniosa.
 
-##### [:rocket: Voltar ao topo ](#dart-objetico-da-sprint)
+##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)

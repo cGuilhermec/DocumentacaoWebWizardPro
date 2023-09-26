@@ -1,3 +1,7 @@
+<center> 
+<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="#clipboard-organização">Organização</a> | <a  href="#triangular_flag_on_post-backlogs">Backlog List</a> | <a  href="#chart_with_downwards_trend-burndown">Burndown</a> | <a  href="#computer-instalação">Instalação</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a>
+</center>
+
 # :pencil:Sobre o Projeto
 
 Sistema web feito pela **WebWizards Pro**, com fins didaticos mostrando a metodologia ágil **Scrum**, com formulário de avaliação e geração de certificado. Feito em uma aplicação web, primando por sua intuitividade e acessibilidade, visando atender às necessidades do usuário final.
@@ -11,8 +15,8 @@ Cada entrega foi realizada a partir da data definida com o cliente, o relatório
 | Sprint  | Previsão de Entrega   | Status                        | Histórico                                      |
 | ------- | --------------------- | ----------------------------- | ---------------------------------------------- |
 | :one:   | :calendar: 29/09/2023 | :white_check_mark: Finalizada | :round_pushpin: [Ver Relatório](./Sprint01.md) |
-| :two:   | :calendar: 26/10/2023 |                               | :round_pushpin: [Ver Relatório]()              |
-| :three: | :calendar: 23/11/2023 |                               | :round_pushpin: [Ver Relatório]()              |
+| :two:   | :calendar: 26/10/2023 |                               |                                                |
+| :three: | :calendar: 23/11/2023 |                               |                                                |
 
 # :clipboard: Organização
 
@@ -33,6 +37,10 @@ O **Backlog List** do produto:
 
 [![Backlog](./Burndown_Sprint01.PNG)](./Burndown_Sprint01.PNG)
 
+# :bust_in_silhouette: UserStories
+
+[![UserSotries](./UserStories.png)](./UserStories.png)
+
 ## :wrench: Tecnologias Utilizadas
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +54,9 @@ Você precisará rodar o comando para clonar o repositório.
 
 ```sh
 git clone https://github.com/cGuilhermec/devSolutions.git
+
 cd devSolutions
+
 code .
 ```
 

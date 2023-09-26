@@ -31,7 +31,7 @@ O **Backlog List** do produto:
 
 # :chart_with_downwards_trend: Burndown
 
-Aqui vem o Grafico do Burndown.
+[![Backlog](./Burndown_Sprint01.PNG)](./Burndown_Sprint01.PNG)
 
 ## :wrench: Tecnologias Utilizadas
 

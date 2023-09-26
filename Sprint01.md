@@ -10,23 +10,23 @@
 
 # :triangular_flag_on_post: Sprint Backlog
 
-[![Sprint Backlog](./Sprint_BackLogList.PNG)](./Sprint_BackLogList.PNG)]
+[![Sprint Backlog](./Sprint_BackLogList.PNG)](./Sprint_BackLogList.PNG)
 
 # :chart_with_downwards_trend: Burndown Sprint 01
 
-[![Brundown Sprint01](./Burndown_Sprint01.PNG)](./Burndown_Sprint01.PNG)]
+[![Brundown Sprint01](./Burndown_Sprint01.PNG)](./Burndown_Sprint01.PNG)
 
 ##### [:rocket: Voltar ao topo ](#dart-objetico-da-sprint)
 
 # :page_facing_up: Wireframe
 
-[![Wireframe](url da img)](url para a pagina)]
+[![Wireframe](./WireFrame.PNG)](./WireFrame.PNG)
 
 # :clipboard: Kanbam (Trello)
 
 A equipe toda se organizou para estudar e estruturar a disposição do wireframe. Para entregar da melhor forma o wireframe para o cliente, visando a preparação para o site.
 
-[![Kanbam Trello](./Trello.PNG)](./Trello.PNG)]
+[![Kanbam Trello](./Trello.PNG)](./Trello.PNG)
 
 ##### [:rocket: Voltar ao topo ](#dart-objetico-da-sprint)
 

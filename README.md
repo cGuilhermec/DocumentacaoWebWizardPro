@@ -18,16 +18,16 @@ Cada entrega foi realizada a partir da data definida com o cliente, o relatório
 
 O projeto foi organizado em 2 repositórios, sendo:
 
-Documentação (No documentação terá um link para o repositório, tipo a tag <a> hiperlink)
+Documentação [Github](https://github.com/cGuilhermec/DocumentacaoWebWizardPro)
 
-Web (No web terá um link para o repositório, tipo a tag <a> hiperlink)
+Web [Github](https://github.com/cGuilhermec/WebWizardsPro)
 
 ##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints)
 
 # :triangular_flag_on_post: Backlogs
 
 O **Backlog List** do produto:
-[![Backlog](./Backlog_List.PNG)(./Backlog_List.PNG)
+[![Backlog](./Backlog_List.PNG)](./Backlog_List.PNG)
 
 # :chart_with_downwards_trend: Burndown
 
@@ -60,7 +60,7 @@ Comando virá aqui
 
 ## :page_facing_up: Wireframe
 
-[![Wireframe](./WireFrame.PNG)](./WireFrame.PNG)]
+[![Wireframe](./WireFrame.PNG)](./WireFrame.PNG)
 
 ## :busts_in_silhouette: Equipe
 
@@ -77,4 +77,4 @@ Print da foto da equipe e suas funções.
 | Dev Team      | Jackson Rodrigo Costa Machado     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacksonrcmachado) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/) |     |
 | Dev Team      | Caio Cesar Silva Azevedo dos Reis | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaiooAzevedoo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-azevedo-dev/)                          |
 
-##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints) |
+##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints)

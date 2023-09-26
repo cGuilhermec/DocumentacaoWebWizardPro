@@ -12,7 +12,7 @@
 
 <div align="center">
 
-#### [ :house: Voltar para home](./Sprint01.md)
+#### [ :house: Voltar para home](./README.md)
 
 </div>
 

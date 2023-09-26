@@ -1,45 +1,45 @@
 # :pencil:Sobre o Projeto
 
-Sistema web feito pela **WebWizards Pro**, mostrando os processos e artefatos da metodologia ágil **Scrum** com formulário de avaliação. Feito em uma aplicação web que seja o mais limpo e mais interativa possível com o usuário final.
+Sistema web feito pela **WebWizards Pro**, com fins didaticos mostrando a metodologia ágil **Scrum**, com formulário de avaliação e geração de certificado. Feito em uma aplicação web, primando por sua intuitividade e acessibilidade, visando atender às necessidades do usuário final.
 
 ### :pushpin:Status do Projeto: Em andamento :construction:
 
-
 # :bookmark_tabs: Entregas de Sprints
 
-Cada entrega foi realizada a partir da data definida com o cliente, neste repositório com um relatório completo de tudo o que foi desenvolvido na sprint. Observe a relação a seguir:
+Cada entrega foi realizada a partir da data definida com o cliente, o relatório completo do que foi desenvolvido nas sprints. Observe a relação a seguir:
 
-| Sprint | Previsão de Entrega | Status | Histórico |
-| ------ | ------ | ------ | ------ |
-| :one: | :calendar: |:white_check_mark: Finalizada | :round_pushpin:  [Ver Relatório]()
-| :two: | :calendar: | :white_check_mark: Finalizada | :round_pushpin:  [Ver Relatório]()
-| :three: | :calendar: | :white_check_mark: Finalizada |:round_pushpin:  [Ver Relatório]()
+| Sprint  | Previsão de Entrega   | Status                        | Histórico                                      |
+| ------- | --------------------- | ----------------------------- | ---------------------------------------------- |
+| :one:   | :calendar: 29/09/2023 | :white_check_mark: Finalizada | :round_pushpin: [Ver Relatório](./Sprint01.md) |
+| :two:   | :calendar: 26/10/2023 |                               | :round_pushpin: [Ver Relatório]()              |
+| :three: | :calendar: 23/11/2023 |                               | :round_pushpin: [Ver Relatório]()              |
 
 # :clipboard: Organização
+
 O projeto foi organizado em 2 repositórios, sendo:
 
 Documentação (No documentação terá um link para o repositório, tipo a tag <a> hiperlink)
 
 Web (No web terá um link para o repositório, tipo a tag <a> hiperlink)
 
+##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints)
 
 # :triangular_flag_on_post: Backlogs
 
 O **Backlog List** do produto:
+[![Backlog](./Backlog_List.PNG)(./Backlog_List.PNG)
 
 # :chart_with_downwards_trend: Burndown
+
 Aqui vem o Grafico do Burndown.
 
-
 ## :wrench: Tecnologias Utilizadas
-  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Figma](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Figma](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Figma](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  ![Figma](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
-
- 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![VsCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## :computer: Instalação
+
 Você precisa ter o [VsCode](https://code.visualstudio.com/download) para rodar o projeto.
 
 Você precisará rodar o comando para clonar o repositório.
@@ -56,23 +56,25 @@ Se caso haja mais coisas para instalar
 Comando virá aqui
 ```
 
+##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints)
 
 ## :page_facing_up: Wireframe
 
-Print do wireframe do figma aqui.
+[![Wireframe](./WireFrame.PNG)](./WireFrame.PNG)]
 
 ## :busts_in_silhouette: Equipe
 
 Print da foto da equipe e suas funções.
 
-| Função | Nome | Linkdim & Github |
-| ------ | ------ | ------ |
-| Project Owner | Ligia Ribeiro | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ligribeiro) [![Legenda](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liribeiro/)
-|Scrum Master | Guilherme Carvalho | [![Legenda](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cGuilhermec) [![Legenda](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-1b8b08156/)
-|Dev Team | André de Holanda Ventura | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreHVentura) [![Legenda](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrehventura/)
-|Dev Team | Jonatas Filipe Carvalho Ferreira | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipejonatas) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-filipe-aa4534165/)
-|Dev Team | Henrique Pintor de Melo | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenriquePmelo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pintor-92448a28b/)
-|Dev Team | Vinicius Barbosa Fernandes | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viniciusfernandes2) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Tem que pegar de novo com ele)
-|Dev Team | Jackson Rodrigo Costa Machado | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacksonrcmachado) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/)
-|Dev Team | Bruna Franciny Gouvea Lima | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brubs97) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Pedir de novo)
-|Dev Team | Caio Cesar Silva Azevedo dos Reis | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaiooAzevedoo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-azevedo-dev/)
+| Função        | Nome                              | Linkdim & Github                                                                                                                                                                                                                                                                                                                |
+| ------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Project Owner | Ligia Ribeiro                     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ligribeiro) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liribeiro/)                                    |
+| Scrum Master  | Guilherme Carvalho                | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cGuilhermec) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-1b8b08156/)                |
+| Dev Team      | André de Holanda Ventura          | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreHVentura) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrehventura/)                             |
+| Dev Team      | Jonatas Filipe Carvalho Ferreira  | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipejonatas) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-filipe-aa4534165/)                  |
+| Dev Team      | Henrique Pintor de Melo           | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenriquePmelo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-pintor-92448a28b/)                 |
+| Dev Team      | Vinicius Barbosa Fernandes        | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viniciusfernandes2) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fernandes-6088a323b)          |
+| Dev Team      | Jackson Rodrigo Costa Machado     | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jacksonrcmachado) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-rodrigo-costa-machado-b636a84a/) |     |
+| Dev Team      | Caio Cesar Silva Azevedo dos Reis | [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaiooAzevedoo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-azevedo-dev/)                          |
+
+##### [:rocket: Voltar ao topo ](#bookmark_tabs-entregas-de-sprints) |

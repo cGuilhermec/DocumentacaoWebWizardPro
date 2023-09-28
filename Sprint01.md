@@ -12,7 +12,7 @@
 
 <div align="center">
 
-:clapper: [Video da Primeira Sprint](https://www.youtube.com/watch?v=Ull8qatsICw&feature=youtu.be&ab_channel=GuihCarvalho)
+### :clapper: [Video da Primeira Sprint](https://www.youtube.com/watch?v=Ull8qatsICw&feature=youtu.be&ab_channel=GuihCarvalho)
 
 </div>
 

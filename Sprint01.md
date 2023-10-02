@@ -38,7 +38,7 @@
 
 # :page_facing_up: Wireframe
 
-[![Wireframe](./WireFrame.PNG)](./WireFrame.PNG)
+[![Wireframe](./WireFrame.PNG)](https://www.figma.com/file/NlvWUeXkm24HkJzpUlTSe8/Web-Wizards?type=design&node-id=0-1&mode=design&t=d2QDJjhf6EplNvEl-0)
 
 # :clipboard: Kanbam (Trello)
 

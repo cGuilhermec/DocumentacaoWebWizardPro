@@ -1,7 +1,7 @@
 [![Brundown Sprint01](./logoWebWizardsPro.jpg)](./logoWebWizardsPro.jpg)
 
 <div align="center">
-<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="#clipboard-organização">Organização</a> | <a  href="#triangular_flag_on_post-backlogs">Backlog List</a> | <a  href="#chart_with_downwards_trend-burndown">Burndown</a> | <a  href="#computer-instalação">Instalação</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a>
+<a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="#clipboard-organização">Organização</a> | <a  href="#triangular_flag_on_post-backlogs">Backlog List</a> | <a  href="#chart_with_downwards_trend-burndown">Burndown</a> | <a  href="#computer-instalação">Instalação</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="#scroll-requisitos-do-cliente">Requisitos do cliente</a>
 </div>
 
 # :pencil:Sobre o Projeto
@@ -34,6 +34,12 @@ Web [Github](https://github.com/cGuilhermec/WebWizardsPro)
 
 O **Backlog List** do produto:
 [![Backlog](./Backlog_List.PNG)](./Backlog_List.PNG)
+
+# :scroll: Requisitos do Cliente
+
+O **Requisitos do Cliente**:
+
+<a  href="./Requisitos de Cliente 1DSM - 2023-2.pdf">Requisitos do Cliente</a>
 
 # :chart_with_downwards_trend: Burndown
 

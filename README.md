@@ -1,4 +1,4 @@
-[![Brundown Sprint01](./logoWebWizardsPro.jpg)](./logoWebWizardsPro.jpg)
+[![Brundown Sprint01](./imgs/logoWebWizardsPro.jpg)](./imgs/logoWebWizardsPro.jpg)
 
 <div align="center">
 <a  href="#bookmark_tabs-entregas-de-sprints">Entrega das Sprints</a> | <a  href="#clipboard-organização">Organização</a> | <a  href="#triangular_flag_on_post-backlogs">Backlog List</a> | <a  href="#chart_with_downwards_trend-burndown">Burndown</a> | <a  href="#computer-instalação">Instalação</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#busts_in_silhouette-equipe">Equipe</a> | <a  href="#scroll-requisitos-do-cliente">Requisitos do cliente</a>
@@ -17,7 +17,7 @@ Cada entrega foi realizada a partir da data definida com o cliente, o relatório
 | Sprint  | Previsão de Entrega   | Status                        | Histórico                                      |
 | ------- | --------------------- | ----------------------------- | ---------------------------------------------- |
 | :one:   | :calendar: 29/09/2023 | :white_check_mark: Finalizada | :round_pushpin: [Ver Relatório](./Sprint01.md) |
-| :two:   | :calendar: 26/10/2023 |                               |                                                |
+| :two:   | :calendar: 26/10/2023 | :white_check_mark: Finalizada | :round_pushpin: [Ver Relatório](./Sprint02.md) |
 | :three: | :calendar: 23/11/2023 |                               |                                                |
 
 # :clipboard: Organização
@@ -33,21 +33,21 @@ Web [Github](https://github.com/cGuilhermec/WebWizardsPro)
 # :triangular_flag_on_post: Backlogs
 
 O **Backlog List** do produto:
-[![Backlog](./Backlog_List.PNG)](./Backlog_List.PNG)
+[![Backlog](./imgs/Backlog_List.PNG)](./imgs/Backlog_List.PNG)
 
 # :scroll: Requisitos do Cliente
 
 O **Requisitos do Cliente**:
 
-<a  href="./Requisitos de Cliente 1DSM - 2023-2.pdf">Requisitos do Cliente</a>
+<a  href="./docs/Requisitos de Cliente 1DSM - 2023-2.pdf">Requisitos do Cliente</a>
 
 # :chart_with_downwards_trend: Burndown
 
-[![Backlog](./Burndown_Sprint01.PNG)](./Burndown_Sprint01.PNG)
+[![Backlog](./imgs/Burndown_Sprint01.PNG)](./imgs/Burndown_Sprint01.PNG)
 
 # :bust_in_silhouette: UserStories
 
-[![UserSotries](./UserStories.png)](./UserStories.png)
+[![UserSotries](./imgs/UserStories.png)](./imgs/UserStories.png)
 
 ## :wrench: Tecnologias Utilizadas
 
@@ -72,11 +72,11 @@ code .
 
 ## :page_facing_up: Wireframe
 
-[![Wireframe](./WireFrame.PNG)](https://www.figma.com/file/NlvWUeXkm24HkJzpUlTSe8/Web-Wizards?type=design&node-id=0-1&mode=design&t=d2QDJjhf6EplNvEl-0)
+[![Wireframe](./imgs/WireFrame.PNG)](https://www.figma.com/file/NlvWUeXkm24HkJzpUlTSe8/Web-Wizards?type=design&node-id=0-1&mode=design&t=d2QDJjhf6EplNvEl-0)
 
 ## :busts_in_silhouette: Equipe
 
-[![Brundown Sprint01](./equipePhoto.jpg)](./equipePhoto.jpg)
+[![Brundown Sprint01](./imgs/equipePhoto.jpg)](./imgs/equipePhoto.jpg)
 
 | Função        | Nome                              | Linkdim & Github                                                                                                                                                                                                                                                                                                                |
 | ------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

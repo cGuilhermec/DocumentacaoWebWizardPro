@@ -28,25 +28,33 @@
 
 # :triangular_flag_on_post: Sprint Backlog
 
-[![Sprint Backlog](./Sprint_BackLogList.PNG)](./Sprint_BackLogList.PNG)
+[![Sprint Backlog](./imgs/Sprint01_BackLogList.PNG)](./imgs/Sprint01_BackLogList.PNG)
 
 # :chart_with_downwards_trend: Burndown Sprint 01
 
-[![Brundown Sprint01](./Burndown_Sprint01.PNG)](./Burndown_Sprint01.PNG)
+[![Brundown Sprint01](./imgs/Burndown_Sprint01.PNG)](./imgs/Burndown_Sprint01.PNG)
 
 ##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
 
 # :page_facing_up: Wireframe
 
-[![Wireframe](./WireFrame.PNG)](https://www.figma.com/file/NlvWUeXkm24HkJzpUlTSe8/Web-Wizards?type=design&node-id=0-1&mode=design&t=d2QDJjhf6EplNvEl-0)
+[![Wireframe](./imgs/WireFrame.PNG)](https://www.figma.com/file/NlvWUeXkm24HkJzpUlTSe8/Web-Wizards?type=design&node-id=0-1&mode=design&t=d2QDJjhf6EplNvEl-0)
 
 # :clipboard: Kanbam (Trello)
 
 A equipe toda se organizou para estudar e estruturar a disposição do wireframe. Para entregar da melhor forma o wireframe para o cliente, visando a preparação para o site.
 
-[![Kanbam Trello](./Trello.PNG)](./Trello.PNG)
+[![Kanbam Trello](./imgs/Trello.PNG)](./imgs/Trello.PNG)
 
 ##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
+
+# :hotsprings: Sprint Review
+
+Após uma reunião abrangente com toda a equipe, realizamos uma análise minuciosa e constatamos que a primeira Sprint foi bem-sucedida em relação às metas estabelecidas. Todos os entregáveis planejados foram efetivamente concluídos. Além disso, conseguimos adiantar determinados aspectos para a segunda Sprint, otimizando assim o processo. A documentação exigida pelo User Story do professor encontra-se em conformidade com os requisitos, mantendo harmonia em relação às expectativas.
+
+No que concerne ao User Story do cliente, embora haja ainda poucos elementos específicos de seu interesse, já estabelecemos a estrutura das páginas, um componente fundamental para o progresso do projeto. Como equipe, chegamos à conclusão de que estamos no caminho certo com relação a esse User Story.
+
+No contexto do User Story do usuário, embora não tenham ocorrido mudanças substanciais, a organização das páginas representa uma melhoria notável para a experiência do usuário. Uma página bem estruturada e organizada facilitará a incorporação dos elementos visuais no futuro. Portanto, concluímos que estamos adequadamente organizados e alinhados com os objetivos estabelecidos. Nossa intenção é continuar com este método e manter o mesmo nível de comprometimento de toda a equipe, visando atender plenamente às expectativas deste projeto. Se percebermos a necessidade de ajustes, estaremos prontos para efetuá-los, visando uma entrega ainda mais precisa e aprimorada na sinergia da equipe.
 
 # :pushpin: Apontamentos
 

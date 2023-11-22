@@ -20,7 +20,7 @@ Cada entrega foi realizada a partir da data definida com o cliente, o relatório
 | ------- | --------------------- | ----------------------------- | ---------------------------------------------- |
 | :one:   | :calendar: 29/09/2023 | :white_check_mark: Finalizada | :round_pushpin: [Ver Relatório](./Sprint01.md) |
 | :two:   | :calendar: 26/10/2023 | :white_check_mark: Finalizada | :round_pushpin: [Ver Relatório](./Sprint02.md) |
-| :three: | :calendar: 23/11/2023 |                               |                                                |
+| :three: | :calendar: 23/11/2023 | :white_check_mark: Finalizada | :white_check_mark: Finalizada                  |
 
 # :clipboard: Organização
 

@@ -1,6 +1,6 @@
 <div  align="center">
 
-### :beginner: Sprint 02 :beginner:
+### :beginner: Sprint 03 :beginner:
 
 ### :date: 02/10/2023 à 26/10/23 :date:
 

@@ -10,7 +10,7 @@
 
 Sistema web feito pela **WebWizards Pro**, com fins didaticos mostrando a metodologia ágil **Scrum**, com formulário de avaliação e geração de certificado. Feito em uma aplicação web, primando por sua intuitividade e acessibilidade, visando atender às necessidades do usuário final.
 
-### :pushpin:Status do Projeto: Finalizada ✅
+### :pushpin:Status do Projeto: Finalizado ✅
 
 # :bookmark_tabs: Entregas de Sprints
 

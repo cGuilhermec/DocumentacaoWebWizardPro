@@ -8,7 +8,7 @@
 
 <div  align="center">
 <h1>
-<a  href="#dart-objetivo-da-sprint">Objetivo da Sprint</a> | <a  href="#triangular_flag_on_post-sprint-backlog">Backlog da Sprint</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#clipboard-kanbam-trello">Kanbam</a> | <a  href="#pushpin-apontamentos">Apontamentos</a> | <a  href="#hotsprings-sprint-review">Sprint Review</a>
+<a  href="#dart-objetivo-da-sprint">Objetivo da Sprint</a> | <a  href="#triangular_flag_on_post-sprint-backlog">Backlog da Sprint</a> | <a  href="#page_facing_up-wireframe">Wireframe</a> | <a  href="#clipboard-kanbam-trello">Kanbam</a> | <a  href="#pushpin-apontamentos">Retrospectiva sprint 2</a> | <a  href="#hotsprings-sprint-review">Sprint Review</a>
 </h1>
 </div>
 
@@ -58,8 +58,12 @@ Em relação ao User Story do Usuário, também houve um leve atraso, e reconhec
 
 Como equipe de desenvolvimento, identificamos áreas nas quais podemos melhorar nosso desempenho para garantir que tudo seja entregue conforme planejado na última iteração. Reconhecemos que a comunicação é essencial para o progresso bem-sucedido do projeto.
 
-# :pushpin: Apontamentos
+# :pushpin: Retrospectiva sprint 2
 
-No início desta iteração, nos deparamos com um desafio em relação ao estilo e à tipografia das páginas. Cada membro da equipe apresentou perspectivas individuais sobre a sequência de ações a serem adotadas. No entanto, a Product Owner (PO), que possui profundo conhecimento em estilização e padronização de projetos, forneceu orientação esclarecedora sobre a melhor abordagem e esquema de cores para a experiência do usuário. Após essa instrução, procedemos a uma reorganização e à atribuição de tarefas, a fim de concluir todos os trabalhos dentro do prazo da Sprint, visando assegurar que o produto entregue ao cliente fosse esteticamente atraente e harmonioso.
+No início desta iteração, nos deparamos com um desafio em relação ao estilo e à tipografia das páginas. Cada membro da equipe apresentou perspectivas individuais sobre a sequência de ações a serem adotadas, semelhante ao problema que foi encontrado no sprint 1.
+
+No entanto, a Product Owner (PO), que possui profundo conhecimento em estilização e padronização de projetos, forneceu orientação esclarecedora sobre a melhor abordagem e esquema de cores para a experiência do usuário.
+
+Após essa instrução, e tendo em vista o aprendizado que o time teve no sprint 1 procedemos a uma reorganização e à atribuição de tarefas para evitar uma perda desnecessária de tempo e concluir todos os trabalhos dentro do prazo da Sprint, visando assegurar que o produto entregue ao cliente fosse esteticamente atraente e harmonioso.
 
 ##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)

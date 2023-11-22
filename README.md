@@ -43,10 +43,6 @@ O **Requisitos do Cliente**:
 
 <a  href="./docs/Requisitos de Cliente 1DSM - 2023-2.pdf">Requisitos do Cliente</a>
 
-# :chart_with_downwards_trend: Burndown
-
-[![Backlog](./imgs/Burndown_Sprint01.PNG)](./imgs/Burndown_Sprint01.PNG)
-
 # :bust_in_silhouette: UserStories
 
 [![UserSotries](./imgs/UserStories.png)](./imgs/UserStories.png)

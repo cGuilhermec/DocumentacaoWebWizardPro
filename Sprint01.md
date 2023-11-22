@@ -57,8 +57,10 @@ No que concerne ao User Story do cliente, embora haja ainda poucos elementos esp
 
 No contexto do User Story do usuário, embora não tenham ocorrido mudanças substanciais, a organização das páginas representa uma melhoria notável para a experiência do usuário. Uma página bem estruturada e organizada facilitará a incorporação dos elementos visuais no futuro. Portanto, concluímos que estamos adequadamente organizados e alinhados com os objetivos estabelecidos. Nossa intenção é continuar com este método e manter o mesmo nível de comprometimento de toda a equipe, visando atender plenamente às expectativas deste projeto. Se percebermos a necessidade de ajustes, estaremos prontos para efetuá-los, visando uma entrega ainda mais precisa e aprimorada na sinergia da equipe.
 
-# :pushpin: Apontamentos
+# :pushpin: retrospectiva da sprint 1
 
-No início da sprint, deparamo-nos com um desafio no que concerne à organização das tarefas prioritárias. Cada membro da equipe tinha sua própria perspectiva sobre a sequência de ações a serem tomadas, resultando em pequenos desentendimentos durante as reuniões diárias. Contudo, após uma construtiva conversa com a Product Owner (PO), que possui um vasto conhecimento em relação ao planejamento e à condução de projetos, incluindo a elaboração de wireframes e os passos subsequentes, conseguimos estabelecer uma estrutura mais sólida e seguir adiante com o projeto de forma mais harmoniosa.
+No início da sprint, deparamo-nos com um desafio no que concerne à organização das tarefas prioritárias. Cada membro da equipe tinha sua própria perspectiva sobre a sequência de ações a serem tomadas, resultando em pequenos desentendimentos durante as reuniões diárias, que inicialmente acabou resultando num início de sprint mais lento.
+
+Contudo, após uma construtiva conversa com a Product Owner (PO), que possui um vasto conhecimento em relação ao planejamento e à condução de projetos, incluindo a elaboração de wireframes e os passos subsequentes, conseguimos estabelecer uma estrutura mais sólida, de forma que os as tarefas ficaram mais claras e o desenvolvimento da sprint acabar ocorrendo de uma forma mais harmoniosa até sua conclusão.
 
 ##### [:rocket: Voltar ao topo ](#dart-objetivo-da-sprint)
